@@ -1,22 +1,32 @@
-### About Me:
-- I’m a roblox exploit developer, i have 2 years of experience in luau.
+# • About Me
+#### Coding Experience:
+  - I’m a roblox exploit developer, i have 2 years of experience in luaU.
 
-- I'm currently working for 2 scripts, Plutonium.lua & Zygarde.
+  - I'm currently working for 2 scripts, Plutonium.lua & Zygarde.
 
-- I have worked for 6 scripts in total for roblox.
+  - I have worked for 10+ scripts in total for roblox.
 
-- I Am 15, i have a girlfriend.
+  - I have high experience with aimimg hacks.
 
-- I code for atleast 1 hour a day.
+  - I usually help people having issues with their code when I am able to.
 
-- I have worked/Helped over 50 People in luau.
+  - I have been known to have made the script hub named "Plutonium.lua"
 
-- I have 1 year of experience in discord moderating.
 
-- I'm pretty much your average dude.
+#### Interesting Facts:
+  - Most of my friends are coders, they code the same language as me.
 
-- Please feel free to contact me for any concerns or issues, I'll be sure to respond!
+  - I am in a relationship.
 
----
-### Contacts:
-- Discord: pawsthepaw
+  - I learnt luaU because i had the urge to learn it.
+
+  - I have alot of failed projects because my expectations are too high.
+
+
+
+# Contacts:
+#### Discord:
+- My Discord: pawsthepaw
+
+#### Others:
+- My Contacts are limited for privacy.
