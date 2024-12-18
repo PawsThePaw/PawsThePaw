@@ -1,44 +1,54 @@
-# About PawsThePaw
+# About PawsThePaw  
 
-Hi! I’m a **Roblox exploit developer** with a passion for **LuaU**. Coding is not just my hobby but also something I dedicate myself to daily. I always strive to help others to the best of my abilities.
+Hi there! I’m a **Roblox exploit developer** with a passion for **LuaU scripting**. Coding is not just a hobby but an integral part of who I am. I love building innovative scripts, helping others solve coding issues, and challenging myself to reach new heights.  
 
 ---
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-## 🧑‍💻 **Coding Experience**
+## 🛠️ **Coding Experience**
 
+### 🔹 **What I Do**  
 - **Roblox Exploit Development**:  
-  I have **2 years of experience** coding in LuaU.  
-  I specialize in creating scripts for Roblox and have contributed to **10+ scripts** so far.
+  With **2 years of experience**, I specialize in creating advanced scripts and exploit tools for Roblox.  
+- **Script Contributions**:  
+  I’ve worked on over **10+ scripts**, helping developers and users enhance their gaming experience.  
+- **Debugging & Support**:  
+  I’m always happy to assist others with coding issues when I can.  
 
-- **Current Projects**:  
-  - **Plutonium.lua**  
-  - **Zygarde**
+### 🔹 **Current Projects**  
+- 🛡️ **Plutonium.lua**  
+- 🌀 **Zygarde**  
 
-- **Key Skills**:  
-  - Extensive knowledge of **aiming hacks**.  
-  - Proficient in debugging and assisting others with their code.  
-  - Creator of the well-known **script hub "Plutonium.lua"**.
-
----
-
-## 🔎 **Interesting Facts**
-
-- I’m surrounded by like-minded friends, most of whom are **LuaU coders**.  
-- I’m in a **relationship**.  
-- My drive to learn LuaU came from a strong **urge to master it**.  
-- I’ve had **many failed projects** because I tend to set high expectations for myself.  
+### 🔹 **Key Skills**  
+- Expertise in **aiming hacks** development.  
+- Proficient in debugging and improving **LuaU scripts**.  
+- Creator of the popular **Plutonium.lua script hub**.  
 
 ---
 
-## 📞 **Contacts**
+## 📊 **GitHub Stats**  
 
-### Discord:  
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PawsThePaw&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawsThePaw&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🌟 **Interesting Facts**
+
+- **I’m surrounded by coders**: Most of my friends share my passion for LuaU scripting.  
+- **Driven by passion**: I learned LuaU out of sheer curiosity and a strong desire to master it.  
+- **High standards**: I’ve faced many failed projects because I tend to set ambitious goals.  
+- **Personal life**: I’m currently in a relationship, which keeps me balanced and motivated.  
+
+---
+
+## 📞 **Get in Touch**
+
+### 🔗 Discord  
 - **pawsthepaw**
 
-### Other Information:  
-- My contacts are limited for **privacy reasons**.
+### 🔒 Privacy Note  
+- My contact availability is limited to maintain **privacy**.  
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for checking out my profile! Feel free to connect or explore my work. 😊  
