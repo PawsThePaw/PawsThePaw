@@ -15,9 +15,15 @@
 - Passionate about helping others debug and improve their scripts.
 
 ### 🔨 **What I’m Working On**
-- **Plutonium.lua**: A powerful script hub I own.
+- **Plutonium.lua**: A highly powerful efficient universal script hub I own.
 - **Cup**: A powerful Robox Bedwars cheat client I am working on with a friend.
 - **Zygarde**: A project I work on with my friend.
+- **Neutron.lua**: A highly advanced universal aimbot for Roblox.
+- **Native**: A very popular highly performant Universal paid cheat for roblox.
+
+### 🔨 **What I’m Planning To Work On**
+- **Nebula.Spy**: A high performant, efficient and powerful state of the art remote spy.
+- **GeoLogic.Easy**: A geometry focused calculator aimmed to help students.
 
 ### 🌟 **Key Skills**
 - Advanced knowledge in **aiming hacks** and **exploit development**.  
