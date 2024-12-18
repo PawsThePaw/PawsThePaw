@@ -1,54 +1,56 @@
-# About PawsThePaw  
+<h1 align="center">🐾 Welcome to PawsThePaw's Profile!</h1>
 
-Hi there! I’m a **Roblox exploit developer** with a passion for **LuaU scripting**. Coding is not just a hobby but an integral part of who I am. I love building innovative scripts, helping others solve coding issues, and challenging myself to reach new heights.  
-
----
-
-## 🛠️ **Coding Experience**
-
-### 🔹 **What I Do**  
-- **Roblox Exploit Development**:  
-  With **2 years of experience**, I specialize in creating advanced scripts and exploit tools for Roblox.  
-- **Script Contributions**:  
-  I’ve worked on over **10+ scripts**, helping developers and users enhance their gaming experience.  
-- **Debugging & Support**:  
-  I’m always happy to assist others with coding issues when I can.  
-
-### 🔹 **Current Projects**  
-- 🛡️ **Plutonium.lua**  
-- 🌀 **Zygarde**  
-
-### 🔹 **Key Skills**  
-- Expertise in **aiming hacks** development.  
-- Proficient in debugging and improving **LuaU scripts**.  
-- Creator of the popular **Plutonium.lua script hub**.  
+<p align="center">
+  Hi! I'm a <b>Roblox exploit developer</b> passionate about <b>LuaU scripting</b>.  
+  I love creating innovative scripts, helping others with code, and pushing the boundaries of what's possible.  
+</p>
 
 ---
 
-## 📊 **GitHub Stats**  
+## 🚀 **About Me**
+
+### 💻 **Who I Am**
+- A dedicated **Roblox exploit developer** with **2 years of experience** in LuaU scripting.
+- Known for creating the **Plutonium.lua** script hub and contributing to **10+ scripts** in the Roblox community.
+- Passionate about helping others debug and improve their scripts.
+
+### 🔨 **What I’m Working On**
+- **Plutonium.lua**: A powerful script hub.  
+- **Zygarde**: My latest project in development.
+
+### 🌟 **Key Skills**
+- Advanced knowledge in **aiming hacks** and **exploit development**.  
+- Proficient in debugging and LuaU optimizations.  
+- Strong problem-solving skills and collaboration within coding communities.
+
+---
+
+## 📊 **GitHub Insights**
+
+<div align="center">
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PawsThePaw&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawsThePaw&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawsThePaw&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
-## 🌟 **Interesting Facts**
-
-- **I’m surrounded by coders**: Most of my friends share my passion for LuaU scripting.  
-- **Driven by passion**: I learned LuaU out of sheer curiosity and a strong desire to master it.  
-- **High standards**: I’ve faced many failed projects because I tend to set ambitious goals.  
-- **Personal life**: I’m currently in a relationship, which keeps me balanced and motivated.  
-
----
-
-## 📞 **Get in Touch**
-
-### 🔗 Discord  
-- **pawsthepaw**
-
-### 🔒 Privacy Note  
-- My contact availability is limited to maintain **privacy**.  
+## 🔎 **Interesting Facts About Me**
+- **Community-Oriented**: Most of my friends are fellow LuaU developers.  
+- **Self-Taught**: I learned LuaU because I was deeply motivated to master it.  
+- **Ambitious**: I’ve had many failed projects because my expectations for myself are sky-high.  
+- **Balanced Life**: I'm in a relationship, which keeps me grounded and motivated.  
 
 ---
 
-Thanks for checking out my profile! Feel free to connect or explore my work. 😊  
+## 📞 **Connect With Me**
+
+<div align="center">
+  <b>Discord:</b> <code>pawsthepaw</code>  
+  <i>Note: My contacts are limited for privacy reasons.</i>
+</div>
+
+---
+
+<h3 align="center">Thanks for visiting my profile! 😊</h3>
