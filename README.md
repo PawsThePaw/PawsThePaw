@@ -1,36 +1,43 @@
-# • About Me
-#### Coding Experience:
-  - I’m a roblox exploit developer, i have 2 years of experience in luaU.
+# About PawsThePaw
 
-  - I'm currently working for 2 scripts, Plutonium.lua & Zygarde.
+Hi! I’m a **Roblox exploit developer** with a passion for **LuaU**. Coding is not just my hobby but also something I dedicate myself to daily. I always strive to help others to the best of my abilities.
 
-  - I have worked for 10+ scripts in total for roblox.
+---
 
-  - I have high experience with aimimg hacks.
+## 🧑‍💻 **Coding Experience**
 
-  - I usually help people having issues with their code when I am able to.
+- **Roblox Exploit Development**:  
+  I have **2 years of experience** coding in LuaU.  
+  I specialize in creating scripts for Roblox and have contributed to **10+ scripts** so far.
 
-  - I have been known to have made the script hub named "Plutonium.lua"
+- **Current Projects**:  
+  - **Plutonium.lua**  
+  - **Zygarde**
 
+- **Key Skills**:  
+  - Extensive knowledge of **aiming hacks**.  
+  - Proficient in debugging and assisting others with their code.  
+  - Creator of the well-known **script hub "Plutonium.lua"**.
 
-#### Interesting Facts:
-  - Most of my friends are coders, they code the same language as me.
+---
 
-  - I am in a relationship.
+## 🔎 **Interesting Facts**
 
-  - I learnt luaU because i had the urge to learn it.
+- I’m surrounded by like-minded friends, most of whom are **LuaU coders**.  
+- I’m in a **relationship**.  
+- My drive to learn LuaU came from a strong **urge to master it**.  
+- I’ve had **many failed projects** because I tend to set high expectations for myself.  
 
-  - I have alot of failed projects because my expectations are too high.
+---
 
+## 📞 **Contacts**
 
+### Discord:  
+- **pawsthepaw**
 
-# Contacts:
-#### Discord:
-- My Discord: pawsthepaw
+### Other Information:  
+- My contacts are limited for **privacy reasons**.
 
-#### Others:
-- My Contacts are limited for privacy.
+---
 
-
-# Language Statistics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Thanks for stopping by! 😊
