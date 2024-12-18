@@ -1,4 +1,4 @@
-<h1 align="center">🐾 Welcome to PawsThePaw's Profile!</h1>
+<h1 align="center"> Hello, I am PawsThePaw! </h1>
 
 <p align="center">
   Hi! I'm a <b>Roblox exploit developer</b> passionate about <b>LuaU scripting</b>.  
@@ -15,8 +15,9 @@
 - Passionate about helping others debug and improve their scripts.
 
 ### 🔨 **What I’m Working On**
-- **Plutonium.lua**: A powerful script hub.  
-- **Zygarde**: My latest project in development.
+- **Plutonium.lua**: A powerful script hub I own.
+- **Cup**: A powerful Robox Bedwars cheat client I am working on with a friend.
+- **Zygarde**: A project I work on with my friend.
 
 ### 🌟 **Key Skills**
 - Advanced knowledge in **aiming hacks** and **exploit development**.  
