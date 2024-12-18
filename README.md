@@ -3,6 +3,7 @@
 Hi! I’m a **Roblox exploit developer** with a passion for **LuaU**. Coding is not just my hobby but also something I dedicate myself to daily. I always strive to help others to the best of my abilities.
 
 ---
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## 🧑‍💻 **Coding Experience**
 
