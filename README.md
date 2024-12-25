@@ -23,7 +23,7 @@
 
 ### 🔨 **What I’m Planning To Work On**
 - **Nebula.Spy**: A high performant, efficient and powerful state of the art remote spy.
-- **Cosmic.Explorer**: A nice, performant tool that explores constants, upvalues, protos and etc in a function!
+- **Cosmic.Explorer**: A nice, performant tool that explores constants, upvalues, protos and etc in a function.
 - **GeoLogic.Easy**: A geometry focused calculator aimmed to help students.
 
 ### 🌟 **Key Skills**
