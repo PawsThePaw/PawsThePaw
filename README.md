@@ -56,8 +56,10 @@
 
 <div align="center">
   <b>Discord:</b> <code>pawsthepaw</code>  
+  <br>
   <i>Note: My contacts are limited for privacy reasons.</i>
 </div>
+
 
 ---
 
